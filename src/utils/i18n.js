@@ -147,3 +147,8 @@ export const i18nMap = {
     skip_ads: "広告をスキップ",
   },
 };
+ fr_FR: {
+   skip_intro: "Ignorer l'introduction",
+    next_epi: "Ép. suivant",
+    skip_recap: "Ignorer récapitulatif",
+    skip_ads: "ignorer"
